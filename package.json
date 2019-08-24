@@ -1,0 +1,20 @@
+{
+  "name": "ispell",
+  "version": "1.0.0",
+  "description": "Correct your spelling and typographical errors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spelling",
+    "typo",
+    "spellcheck",
+    "error"
+  ],
+  "author": "Marty Jacobs",
+  "license": "ISC",
+  "dependencies": {
+    "levenshtein-edit-distance": "^2.0.4"
+  }
+}
